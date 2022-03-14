@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./.github/logo.svg" alt="dtmoney" width="300"/>
+   <img src="https://github.com/dsenam/react-finance/blob/main/screenshots/logo.svg" alt="dtmoney" width="300"/>
 </p>
 
 <p align="center">	
@@ -29,9 +29,9 @@
 # :camera: Screenshots
 <div align="center">
    <img src="https://github.com/dsenam/react-finance/blob/main/screenshots/screen1.png" width="400px">
-   <img src="./.github/screen2.png" width="400px">
-   <img src="./.github/screen3.png" width="400px">
-   <img src="./.github/screen4.png" width="400px">
+   <img src="https://github.com/dsenam/react-finance/blob/main/screenshots/screen2.png" width="400px">
+   <img src="https://github.com/dsenam/react-finance/blob/main/screenshots/screen3.png" width="400px">
+   <img src="https://github.com/dsenam/react-finance/blob/main/screenshots/screen4.png" width="400px">
 </div>
 
 # :rocket: Technologies
